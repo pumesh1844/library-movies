@@ -1,0 +1,17 @@
+Testing for Movie Library :
+
+github link :
+
+I created the movie library that contain the movie-name,rating,genre,comment
+
+I am testing that movie library using karma tool
+
+In this project, i wrote 14 specifications,
+skipped one specfication as per your reference and 
+other all 13 specifications are passed
+
+Thank You,
+Umesh patil.
+
+
+
